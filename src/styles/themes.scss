@@ -1,0 +1,11 @@
+[data-theme="dark"] {
+    @import url('../../node_modules/devextreme/dist/css/dx.material.blue.dark.compact.css');
+    --bg-color: #121416;
+    --font-color: #f4f4f4;
+}
+
+[data-theme="light"] {
+    @import url('../../node_modules/devextreme/dist/css/dx.material.blue.light.compact.css');
+    --bg-color: #f4f4f4;
+    --font-color: #121416;
+}

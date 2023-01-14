@@ -1,0 +1,14 @@
+<template>
+	<svg width="1em" height="1em" viewBox="0 0 256 256">
+		<path
+			fill="currentColor"
+			d="m224.5 136.5l-42 42a12 12 0 0 1-8.5 3.5a12.2 12.2 0 0 1-8.5-3.5a12 12 0 0 1 0-17L187 140h-83a12 12 0 0 1 0-24h83l-21.5-21.5a12 12 0 0 1 17-17l42 42a12 12 0 0 1 0 17ZM104 204H52V52h52a12 12 0 0 0 0-24H48a20.1 20.1 0 0 0-20 20v160a20.1 20.1 0 0 0 20 20h56a12 12 0 0 0 0-24Z"
+		></path>
+	</svg>
+</template>
+
+<script lang="ts">
+	export default {
+		name: 'SignOutIcon',
+	}
+</script>

@@ -1,0 +1,10 @@
+{
+	"recommendations": [
+		"Vue.volar",
+		"Tobermory.es6-string-html",
+		"esbenp.prettier-vscode",
+		"naumovs.color-highlight",
+		"hollowtree.vue-snippets",
+		"redhat.vscode-xml"
+	]
+}
